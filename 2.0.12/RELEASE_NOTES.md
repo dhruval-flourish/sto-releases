@@ -1,24 +1,14 @@
 # STO 2.0.12
 
-**Released:** 18 September 2026  
-**Compared to:** 2.0.11
+18 September 2026
 
-Payroll Close is the main change in this build. Time Admin review and Timer save are also more reliable.
+What’s new since 2.0.11:
 
-## Added
+- You can close a pay period, check hours, and export payroll.
+- Overtime follows your company rules, including holidays.
+- You can add a note if something looks wrong, and see hours next to last period.
+- After export, the period locks so it is not changed by accident.
+- Searching time in Admin works more reliably.
+- Timer entries save without error.
 
-- **Payroll Close** — review a pay period, apply company overtime rules, then save, audit, and export.
-- Overtime follows the configured **period cap**, including holidays and weekday hours.
-- **Exception notes** and a **Verified** mark on employee flags. Export is blocked until errors have a note.
-- **Last-period hours** on each grid row so you can see the change from the previous period.
-- **Department filter** and an **audit** drawer on Close.
-- Period **lock after export**, with a way to reopen if needed.
-
-## Fixed
-
-- **Admin** search and **All dates** stay usable while reviewing time.
-- Timer no longer writes an unused **reference number** column, which was causing save errors.
-
-## Installer
-
-[Download STO - BY FLOURISH Setup 2.0.12.exe](./STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe)
+[Download this version](./STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe)

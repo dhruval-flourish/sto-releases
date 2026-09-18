@@ -7,7 +7,7 @@ No GitHub account is required. Open a version folder, click the `.exe`, then **D
 ## Latest: 2.0.12
 
 **[Download STO - BY FLOURISH Setup 2.0.12.exe](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe)**  
-**[What’s new in 2.0.12](./2.0.12/RELEASE_NOTES.md)** — Payroll Close, rules-driven overtime, Admin search/All dates, Timer save fix.
+**[What’s new in 2.0.12](./2.0.12/RELEASE_NOTES.md)** — Close payroll, check overtime, and save timer entries more reliably.
 
 SHA256: `bd34b56a8ac28dc25b5ccfefff4353d1cd28ee7c56e9e5b1388bedeaf46544e5`
 
