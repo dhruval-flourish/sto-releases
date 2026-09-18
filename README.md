@@ -6,19 +6,20 @@ No GitHub account is required. Open a version folder, click the `.exe`, then **D
 
 ## Latest: 2.0.12
 
-**[Download STO - BY FLOURISH Setup 2.0.12.exe](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe)**
+**[Download STO - BY FLOURISH Setup 2.0.12.exe](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe)**  
+**[What’s new in 2.0.12](./2.0.12/RELEASE_NOTES.md)** — Payroll Close, rules-driven overtime, Admin search/All dates, Timer save fix.
 
 SHA256: `bd34b56a8ac28dc25b5ccfefff4353d1cd28ee7c56e9e5b1388bedeaf46544e5`
 
 ## All versions
 
-| Version | Installer | SHA256 |
-| --- | --- | --- |
-| 2.0.12 | [Download](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe) | [checksum](./2.0.12/SHA256.txt) |
-| 2.0.11 | [Download](./2.0.11/STO%20-%20BY%20FLOURISH%20Setup%202.0.11.exe) | [checksum](./2.0.11/SHA256.txt) |
-| 2.0.10 | [Download](./2.0.10/STO%20-%20BY%20FLOURISH%20Setup%202.0.10.exe) | [checksum](./2.0.10/SHA256.txt) |
-| 2.0.9 | [Download](./2.0.9/STO%20-%20BY%20FLOURISH%20Setup%202.0.9.exe) | [checksum](./2.0.9/SHA256.txt) |
-| 2.0.8 | [Download](./2.0.8/STO%20-%20BY%20FLOURISH%20Setup%202.0.8.exe) | [checksum](./2.0.8/SHA256.txt) |
+| Version | What’s new | Installer | SHA256 |
+| --- | --- | --- | --- |
+| 2.0.12 | [Release notes](./2.0.12/RELEASE_NOTES.md) | [Download](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe) | [checksum](./2.0.12/SHA256.txt) |
+| 2.0.11 | — | [Download](./2.0.11/STO%20-%20BY%20FLOURISH%20Setup%202.0.11.exe) | [checksum](./2.0.11/SHA256.txt) |
+| 2.0.10 | — | [Download](./2.0.10/STO%20-%20BY%20FLOURISH%20Setup%202.0.10.exe) | [checksum](./2.0.10/SHA256.txt) |
+| 2.0.9 | — | [Download](./2.0.9/STO%20-%20BY%20FLOURISH%20Setup%202.0.9.exe) | [checksum](./2.0.9/SHA256.txt) |
+| 2.0.8 | — | [Download](./2.0.8/STO%20-%20BY%20FLOURISH%20Setup%202.0.8.exe) | [checksum](./2.0.8/SHA256.txt) |
 
 ## Install
 
