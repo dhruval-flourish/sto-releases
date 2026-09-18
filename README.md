@@ -4,17 +4,21 @@ Public downloads only. Source code stays in a private repo.
 
 No GitHub account is required. Open a version folder, click the `.exe`, then **Download raw file**.
 
-## Latest: 2.0.12
+## Latest: 2.0.13
 
-**[Download STO - BY FLOURISH Setup 2.0.12.exe](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe)**  
-**[What’s new in 2.0.12](./2.0.12/RELEASE_NOTES.md)** — Close payroll, check overtime, and save timer entries more reliably.
+**[Download STO - BY FLOURISH Setup 2.0.13.exe](./2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe)**  
+**[What’s new in 2.0.13](./2.0.13/RELEASE_NOTES.md)** — Checks the app version on startup, and adds a Version page to download the published installer.
 
-SHA256: `bd34b56a8ac28dc25b5ccfefff4353d1cd28ee7c56e9e5b1388bedeaf46544e5`
+SHA256: `16df59f9ad9eac3cda450ffef535bd81cd1aa622f9a65414fc7693ec03c3eb5c`
+
+Direct file (starts the download):  
+https://github.com/dhruval-flourish/sto-releases/raw/main/2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe
 
 ## All versions
 
 | Version | What’s new | Installer | SHA256 |
 | --- | --- | --- | --- |
+| 2.0.13 | [Release notes](./2.0.13/RELEASE_NOTES.md) | [Download](./2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe) | [checksum](./2.0.13/SHA256.txt) |
 | 2.0.12 | [Release notes](./2.0.12/RELEASE_NOTES.md) | [Download](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe) | [checksum](./2.0.12/SHA256.txt) |
 | 2.0.11 | — | [Download](./2.0.11/STO%20-%20BY%20FLOURISH%20Setup%202.0.11.exe) | [checksum](./2.0.11/SHA256.txt) |
 | 2.0.10 | — | [Download](./2.0.10/STO%20-%20BY%20FLOURISH%20Setup%202.0.10.exe) | [checksum](./2.0.10/SHA256.txt) |
@@ -28,7 +32,7 @@ SHA256: `bd34b56a8ac28dc25b5ccfefff4353d1cd28ee7c56e9e5b1388bedeaf46544e5`
 3. Run the installer. You can install per user; you do not need admin unless your PC policy requires it.
 4. Open **STO - BY FLOURISH** from the desktop or Start menu.
 
-Windows may warn that the app is unrecognized until the installer is Authenticode-signed. Choose **More info** → **Run anyway** only if you downloaded it from this Flourish repo.
+Windows or Edge may warn that the app is uncommon until the installer is Authenticode-signed. Choose **Keep** / **More info** → **Run anyway** only if you downloaded it from this Flourish repo.
 
 ## What this repo is not
 
