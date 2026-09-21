@@ -9,7 +9,7 @@ No GitHub account is required. Open a version folder, click the `.exe`, then **D
 **[Download STO - BY FLOURISH Setup 2.0.13.exe](./2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe)**  
 **[What’s new in 2.0.13](./2.0.13/RELEASE_NOTES.md)** — Checks the app version on startup, and adds a Version page to download the published installer.
 
-SHA256: `088d75c1da9b2be73653d4b44d32195a1c0ca0b25dc2d0f1c1b428644e544465`
+SHA256: `7054533f3c299fd3096aa1bf6bfaac2d29a1062044d4be9bab9668e216678b87`
 
 Direct file (starts the download):  
 https://github.com/dhruval-flourish/sto-releases/raw/main/2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe
