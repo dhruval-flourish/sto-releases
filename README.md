@@ -7,7 +7,7 @@ No GitHub account is required. Open a version folder, click the `.exe`, then **D
 ## Latest: 2.0.14
 
 **[Download STO - BY FLOURISH Setup 2.0.14.exe](./2.0.14/STO%20-%20BY%20FLOURISH%20Setup%202.0.14.exe)**  
-**[What’s new in 2.0.14](./2.0.14/RELEASE_NOTES.md)** — Settings profiles, labour-group reports, and mobile attachments on the desktop.
+**[What’s new in 2.0.14](./2.0.14/RELEASE_NOTES.md)** — Profiles, labour-group reports, and desktop attachments.
 
 SHA256: `dae9144043cac71d806d1a7c41cd26f9ace580e50c9dc8d8481a9ba2ef0c814e`
 
