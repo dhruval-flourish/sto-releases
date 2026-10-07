@@ -4,20 +4,21 @@ Public downloads only. Source code stays in a private repo.
 
 No GitHub account is required. Open a version folder, click the `.exe`, then **Download raw file**.
 
-## Latest: 2.0.13
+## Latest: 2.0.14
 
-**[Download STO - BY FLOURISH Setup 2.0.13.exe](./2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe)**  
-**[What’s new in 2.0.13](./2.0.13/RELEASE_NOTES.md)** — Checks the app version on startup, and adds a Version page to download the published installer.
+**[Download STO - BY FLOURISH Setup 2.0.14.exe](./2.0.14/STO%20-%20BY%20FLOURISH%20Setup%202.0.14.exe)**  
+**[What’s new in 2.0.14](./2.0.14/RELEASE_NOTES.md)** — Settings profiles, labour-group reports, and mobile attachments on the desktop.
 
-SHA256: `7054533f3c299fd3096aa1bf6bfaac2d29a1062044d4be9bab9668e216678b87`
+SHA256: `dae9144043cac71d806d1a7c41cd26f9ace580e50c9dc8d8481a9ba2ef0c814e`
 
 Direct file (starts the download):  
-https://github.com/dhruval-flourish/sto-releases/raw/main/2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe
+https://github.com/dhruval-flourish/sto-releases/raw/main/2.0.14/STO%20-%20BY%20FLOURISH%20Setup%202.0.14.exe
 
 ## All versions
 
 | Version | What’s new | Installer | SHA256 |
 | --- | --- | --- | --- |
+| 2.0.14 | [Release notes](./2.0.14/RELEASE_NOTES.md) | [Download](./2.0.14/STO%20-%20BY%20FLOURISH%20Setup%202.0.14.exe) | [checksum](./2.0.14/SHA256.txt) |
 | 2.0.13 | [Release notes](./2.0.13/RELEASE_NOTES.md) | [Download](./2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe) | [checksum](./2.0.13/SHA256.txt) |
 | 2.0.12 | [Release notes](./2.0.12/RELEASE_NOTES.md) | [Download](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe) | [checksum](./2.0.12/SHA256.txt) |
 | 2.0.11 | — | [Download](./2.0.11/STO%20-%20BY%20FLOURISH%20Setup%202.0.11.exe) | [checksum](./2.0.11/SHA256.txt) |
