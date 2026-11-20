@@ -19,6 +19,7 @@ https://github.com/dhruval-flourish/sto-releases/raw/main/2.0.15/STO%20-%20BY%20
 | Version | What’s new | Installer | SHA256 |
 | --- | --- | --- | --- |
 | 2.0.15 | [Release notes](./2.0.15/RELEASE_NOTES.md) | [Download](./2.0.15/STO%20-%20BY%20FLOURISH%20Setup%202.0.15.exe) | [checksum](./2.0.15/SHA256.txt) |
+| 2.0.14 | [Release notes](./2.0.14/RELEASE_NOTES.md) | [Download](./2.0.14/STO%20-%20BY%20FLOURISH%20Setup%202.0.14.exe) | [checksum](./2.0.14/SHA256.txt) |
 | 2.0.13 | [Release notes](./2.0.13/RELEASE_NOTES.md) | [Download](./2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe) | [checksum](./2.0.13/SHA256.txt) |
 | 2.0.12 | [Release notes](./2.0.12/RELEASE_NOTES.md) | [Download](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe) | [checksum](./2.0.12/SHA256.txt) |
 | 2.0.11 | — | [Download](./2.0.11/STO%20-%20BY%20FLOURISH%20Setup%202.0.11.exe) | [checksum](./2.0.11/SHA256.txt) |
