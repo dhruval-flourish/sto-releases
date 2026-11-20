@@ -4,20 +4,21 @@ Public downloads only. Source code stays in a private repo.
 
 No GitHub account is required. Open a version folder, click the `.exe`, then **Download raw file**.
 
-## Latest: 2.0.13
+## Latest: 2.0.15
 
-**[Download STO - BY FLOURISH Setup 2.0.13.exe](./2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe)**  
-**[What’s new in 2.0.13](./2.0.13/RELEASE_NOTES.md)** — Checks the app version on startup, and adds a Version page to download the published installer.
+**[Download STO - BY FLOURISH Setup 2.0.15.exe](./2.0.15/STO%20-%20BY%20FLOURISH%20Setup%202.0.15.exe)**  
+**[What’s new in 2.0.15](./2.0.15/RELEASE_NOTES.md)** — STO orders stay in payroll, each employee can have different auto hours, and Time Admin and Team are easier to use.
 
-SHA256: `7054533f3c299fd3096aa1bf6bfaac2d29a1062044d4be9bab9668e216678b87`
+SHA256: `82a0381c4cf5868f8bea861e1133b96fba9ffa738aa59c0c62549ccceae3bfb8`
 
 Direct file (starts the download):  
-https://github.com/dhruval-flourish/sto-releases/raw/main/2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe
+https://github.com/dhruval-flourish/sto-releases/raw/main/2.0.15/STO%20-%20BY%20FLOURISH%20Setup%202.0.15.exe
 
 ## All versions
 
 | Version | What’s new | Installer | SHA256 |
 | --- | --- | --- | --- |
+| 2.0.15 | [Release notes](./2.0.15/RELEASE_NOTES.md) | [Download](./2.0.15/STO%20-%20BY%20FLOURISH%20Setup%202.0.15.exe) | [checksum](./2.0.15/SHA256.txt) |
 | 2.0.13 | [Release notes](./2.0.13/RELEASE_NOTES.md) | [Download](./2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe) | [checksum](./2.0.13/SHA256.txt) |
 | 2.0.12 | [Release notes](./2.0.12/RELEASE_NOTES.md) | [Download](./2.0.12/STO%20-%20BY%20FLOURISH%20Setup%202.0.12.exe) | [checksum](./2.0.12/SHA256.txt) |
 | 2.0.11 | — | [Download](./2.0.11/STO%20-%20BY%20FLOURISH%20Setup%202.0.11.exe) | [checksum](./2.0.11/SHA256.txt) |
