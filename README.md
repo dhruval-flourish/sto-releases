@@ -4,20 +4,21 @@ Public downloads only. Source code stays in a private repo.
 
 No GitHub account is required. Open a version folder, click the `.exe`, then **Download raw file**.
 
-## Latest: 2.0.15
+## Latest: 2.0.16
 
-**[Download STO - BY FLOURISH Setup 2.0.15.exe](./2.0.15/STO%20-%20BY%20FLOURISH%20Setup%202.0.15.exe)**  
-**[What’s new in 2.0.15](./2.0.15/RELEASE_NOTES.md)** — STO orders stay in payroll, each employee can have different auto hours, and Time Admin and Team are easier to use.
+**[Download STO - BY FLOURISH Setup 2.0.16.exe](./2.0.16/STO%20-%20BY%20FLOURISH%20Setup%202.0.16.exe)**  
+**[What’s new in 2.0.16](./2.0.16/RELEASE_NOTES.md)** — Shared payroll rules saving is fixed, and billing code mapping and holiday selection in Payroll are improved.
 
-SHA256: `82a0381c4cf5868f8bea861e1133b96fba9ffa738aa59c0c62549ccceae3bfb8`
+SHA256: `aa9e8adec8cece70d1ad71c1aacef55a3c72bb8a68fbd86c2d11c4dfd9185c1a`
 
 Direct file (starts the download):  
-https://github.com/dhruval-flourish/sto-releases/raw/main/2.0.15/STO%20-%20BY%20FLOURISH%20Setup%202.0.15.exe
+https://github.com/dhruval-flourish/sto-releases/raw/main/2.0.16/STO%20-%20BY%20FLOURISH%20Setup%202.0.16.exe
 
 ## All versions
 
 | Version | What’s new | Installer | SHA256 |
 | --- | --- | --- | --- |
+| 2.0.16 | [Release notes](./2.0.16/RELEASE_NOTES.md) | [Download](./2.0.16/STO%20-%20BY%20FLOURISH%20Setup%202.0.16.exe) | [checksum](./2.0.16/SHA256.txt) |
 | 2.0.15 | [Release notes](./2.0.15/RELEASE_NOTES.md) | [Download](./2.0.15/STO%20-%20BY%20FLOURISH%20Setup%202.0.15.exe) | [checksum](./2.0.15/SHA256.txt) |
 | 2.0.14 | [Release notes](./2.0.14/RELEASE_NOTES.md) | [Download](./2.0.14/STO%20-%20BY%20FLOURISH%20Setup%202.0.14.exe) | [checksum](./2.0.14/SHA256.txt) |
 | 2.0.13 | [Release notes](./2.0.13/RELEASE_NOTES.md) | [Download](./2.0.13/STO%20-%20BY%20FLOURISH%20Setup%202.0.13.exe) | [checksum](./2.0.13/SHA256.txt) |
